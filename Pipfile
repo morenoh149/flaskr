@@ -8,7 +8,9 @@ name = "pypi"
 [packages]
 
 flask = "*"
+"e1839a8" = {path = ".", editable = true}
 
 
 [dev-packages]
 
+"e1839a8" = {path = ".", editable = true}
